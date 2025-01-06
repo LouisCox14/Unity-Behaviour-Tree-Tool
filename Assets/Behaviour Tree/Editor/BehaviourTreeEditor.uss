@@ -1,0 +1,15 @@
+GridBackground 
+{
+    --grid-background-color: rgb(40, 40, 40);
+    --line-color: rgba(193, 196, 192, 0.1);
+    --thick-line-color: rgba(193, 196, 192, 0.25);
+    --spacing: 15;
+}
+
+.label {
+    background-color: #252525;
+    color: #CCCCCC;
+
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
